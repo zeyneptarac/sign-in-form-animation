@@ -6,4 +6,4 @@ signUpButton.addEventListener('click', () => { container.classtist.add("right-pa
 });
 
 signInButton.addEventListener('click', () => { container.classList.remove("right-panel-active");
-});
+}); 
